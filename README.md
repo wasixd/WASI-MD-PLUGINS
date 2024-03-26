@@ -1,16 +1,16 @@
-# [![Gifted MD-Plugins  V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1201C4&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;Here+are+Gifted-MD+Plugins;They+are+Prepared+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/gifted-bot-md-plugins)
+# [![Gifted MD-Plugins  V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1201C4&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;Here+are+WASI-MD+Plugins;They+are+Prepared+by+wasi)
 
 
 
 
-<h1 align="center"> Gifted-Md V.2.0.0 Plugins </h1>
+<h1 align="center"> WASI V.2.0.0 Plugins </h1>
 <div align="center">
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhail&label=Visitors%20count&color=10d9c3&style=plastic" alt="GiftedTech-plugin-list" /> </p>
 
 
 # ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ CHANNEL 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o)
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
   <div align="center"  >
 <h4 align="center">Plugins</h1>
 
@@ -18,7 +18,7 @@
 
 <h3></h3> Create your own plugins and join group to add that plugin in repo.<h3/>
 
-# <b>Join Whatsapp Group: ([@Here](https://chat.whatsapp.com/FPzB9wRD9RN4Zk2y2rnH3S))<b/>
+# <b>Join Whatsapp Group: ([@Here](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j))<b/>
 
 # Usage:
 <h3>Just copy any plugin of your choice and paste in your whatsapp integrated bot account</h3>
