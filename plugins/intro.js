@@ -28,18 +28,18 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
 var surl = 'https://github.com/Giftedmaurice/gifted-bot-md' // Source URL
-const number = '254728782591'
+const number = '919641777234'
 var name = ' Gifted Tech'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/54efddccf41281ad7ec51.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
 │ Name      : ɢɪғᴛᴇᴅ ᴍᴀᴜʀɪᴄᴇ(ɢɪғᴛᴇᴅ ᴛᴇᴄʜ)
-│ Place       : ᴇᴅᴏʀᴇᴛ - ᴋᴇɴʏᴀ
+│ Place       : ᴇᴅᴏʀᴇᴛ - INDIA
 │ Gender    :  ᴍᴀʟᴇ
-│ Age          : 21_
-│ Phone     : wa.me/254728782591
-│ Youtube   : Youtube.com/@giftedtechnexus
+│ Age          : 19_
+│ Phone     : wa.me/919641777234
+│ Youtube   : www.youtube.com/@tanaypasari8200
 │ Status     : sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ɢʀᴀᴘʜɪᴄs ᴅᴇsɪɢɴᴇʀ,ᴄᴇᴏ
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
